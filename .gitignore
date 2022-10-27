@@ -22,6 +22,10 @@ appengine-generated/
 **/.idea/**/contentModel.xml
 **/.idea/**/modules.xml
 
+# Project related
+**/obj
+**/bin
+
 *.suo
 *.user
 .vs/
